@@ -1,5 +1,2 @@
 @import url(global.css);
-
-body {
-    
-}
+@import url(nav.css);
