@@ -14,8 +14,6 @@ nav ul {
     gap: 2.4rem;
 
     padding-block: 0.8rem;
-
-    list-style: none;
 }
 
 nav ul li:last-child img {

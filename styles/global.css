@@ -38,6 +38,10 @@ a:hover {
     text-decoration: underline;
 }
 
+ul {
+    list-style: none;
+}
+
 .container {
     max-width: 128rem;
     padding-inline: 3.2rem;
