@@ -15,11 +15,11 @@
     --text-color-secondary: #6c6c6c;
 
     /* Fonts: */
-    --font-family: 'Poppins', sans-serif;
-    --text: 1.6rem/1.5 var(--font-family);
-    --text-lg: bold 3.2rem/125 var(--font-family);
-    --text-md: 1.4rem/170 var(--font-family);
-    --text-sm: 1.2rem/170 var(--font-family);
+    font-family: "Poppins", sans-serif;
+    --text: 1.6rem/150% var(--font-family);
+    --text-lg: bold 3.2rem/125% var(--font-family);
+    --text-md: 1.4rem/170% var(--font-family);
+    --text-sm: 1.2rem/170% var(--font-family);
 }        
 
 body {

@@ -14,6 +14,12 @@ header .container {
     gap: 3.2rem;
 }
 
+#profile img {
+    max-width: 17.6rem;
+    max-height: 17.6rem;
+}
+
+
 #profile > div {
     max-width: 38.4rem;
 }
