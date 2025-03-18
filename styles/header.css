@@ -17,8 +17,9 @@ header .container {
 #profile img {
     max-width: 17.6rem;
     max-height: 17.6rem;
+    border: 50%;
+    object-fit: cover;
 }
-
 
 #profile > div {
     max-width: 38.4rem;
